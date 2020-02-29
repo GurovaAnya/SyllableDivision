@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace курсовая_работа.Properties
+namespace SyllableDivision.Properties
 {
 
 

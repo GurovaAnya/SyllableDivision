@@ -1,4 +1,4 @@
-﻿namespace курсовая_работа
+﻿namespace SyllableDivision
 {
     partial class Form1
     {

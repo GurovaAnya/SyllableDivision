@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace курсовая_работа
+namespace SyllableDivision
 {
     public class Syllables
     {
