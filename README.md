@@ -21,17 +21,16 @@ SyllableDivision - это программа, предназначенная д�
 Версия операционной системы: Windows 7, Windows 8 или Windows 10.
 ## Установка
 Установить программу можно с помощью инсталляционного пакета. Для этого нужно выполнить следующие шаги.
-1. Загрузить файл [инсталляционного пакета].
-(https://github.com/GurovaAnya/SyllableDivision/blob/master/SyllablesSetup.msi)
+1. Загрузить файл [инсталляционного пакета](https://github.com/GurovaAnya/SyllableDivision/blob/master/SyllablesSetup.msi).
 2. Открыть файл.
-![Image](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/installation1.png)
+![Image](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/installation1.png =250x)
 3. Выбрать место на диске, куда сохранить программу (1), и продолжить установку (2).
-![Image](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/installation2.png)
+![Image](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/installation2.png =250x)
 4. Запустить начало установки.
-![Image](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/installation3.png) ![Image](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/installation4.png)
+![Image](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/installation3.png =250x) ![Image](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/installation4.png =250x)
 ---
 5. Завершить установку.
-![Image](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/installation5.png)
+![Image](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/installation5.png =250x)
 # Использование
 Интерфейс программы состоит из нескольких элементов:
 1. Поле для ввода исходного текста
@@ -40,7 +39,7 @@ SyllableDivision - это программа, предназначенная д�
 4. Кнопка загрузки файла с исходным текстом
 5. Кнопка сохранения обработанного текста
 
-![alt text](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/window-mode.png "Оконный режим")
+![alt text](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/window-mode.png "Оконный режим" =250x)
 
 SyllableDiviaion предусматривает два режима взаимодействия пользователя с программой:
 - [оконный режим](#оконный-режим);
