@@ -17,7 +17,7 @@ Table of content:
     - [Window mode](#window-mode)
     - [Working with files](#working-with-files)
 # Getting started
-## System requrements
+## System requirements
 Operating system versions: Windows 7, Windows 8 or Windows 10.
 ## Installation
 Installation can be done in the following steps.
