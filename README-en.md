@@ -55,5 +55,5 @@ Downloading a file from a computer is done by pressing the button **Открыт
 Saving a file to a computer is done by pressing the button **Сохранить**.
 
 # Troubleshooting
-if you faced any problems dealing with the app please contact product owner via aagurova_2@edu.hse.ru
+If you faced any problems dealing with the app please contact product owner via aagurova_2@edu.hse.ru.
 
