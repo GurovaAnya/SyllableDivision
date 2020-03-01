@@ -31,8 +31,8 @@ The interface of the program consists of several elements:
 1. Source text field
 2. Division button
 3. Processed text field
-4. Download file from the device button
-5. Save the processed text button
+4. Download button
+5. Save button
 
 ![alt text](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/window-mode.png)
 
