@@ -36,9 +36,9 @@ The interface of the program consists of several elements:
 
 ![alt text](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/window-mode.png)
 
-SyllableDiviaion has two modes of working with a user:
+SyllableDiviaion has 2 modes of working with a user:
 - [window mode](#window-mode);
-- [working with files](#working with-files).
+- [working with files](#working-with-files).
 
 ## Window mode
 In the window mode, the text is typed by the user in the text field, which is located in the upper part of the interface.
