@@ -16,6 +16,7 @@ Table of content:
 - [Usage](#usage)
     - [Window mode](#window-mode)
     - [Working with files](#working-with-files)
+- [Troubleshooting](#troubleshooting)
 # Getting started
 ## System requirements
 Operating system versions: Windows 7, Windows 8 or Windows 10.
@@ -52,4 +53,7 @@ After the division, the result will be displayed in the process text field.
 The program allows user to work with files from the device.
 Downloading a file from a computer is done by pressing the button **Открыть файл**.
 Saving a file to a computer is done by pressing the button **Сохранить**.
+
+# Troubleshooting
+if you faced any problems dealing with the app please contact product owner via aagurova_2@edu.hse.ru
 
