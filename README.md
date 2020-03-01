@@ -23,7 +23,7 @@ SyllableDivision - это программа, предназначенная д�
 Установить программу можно с помощью инсталляционного пакета. Для этого нужно выполнить следующие шаги.
 1. Загрузить файл [инсталляционного пакета](https://github.com/GurovaAnya/SyllableDivision/blob/master/SyllablesSetup.msi).
 2. Открыть файл.
-![Image](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/installation1.png =250x)
+![Image](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/installation1.png | width=300)
 3. Выбрать место на диске, куда сохранить программу (1), и продолжить установку (2).
 ![Image](https://github.com/GurovaAnya/SyllableDivision/blob/master/images/installation2.png =250x)
 4. Запустить начало установки.
