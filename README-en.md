@@ -10,7 +10,7 @@ SyllableDivision is a program for splitting Russian text into syllables based on
 
 
 Table of content:
-- [getting started](#getting-started)
+- [Getting started](#getting-started)
     - [System requirements](#system-requirements)
     - [Installation](#installation)
 - [Usage](#usage)
