@@ -12,7 +12,9 @@ This program is developed for students of linguistic universities.
 # Getting started
 ## System requirements
 Operating system versions: Windows 7, Windows 8 or Windows 10.
+
 Free storage: 64KB.
+
 Bit depth: x64.
 ## Installation
 Installation can be done in the following steps:
